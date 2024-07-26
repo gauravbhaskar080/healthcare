@@ -82,7 +82,7 @@ export const PatientForm = () => {
           control={form.control}
           name="phone"
           label="Phone number"
-          placeholder="9876543210"
+          placeholder="9999988888"
         />
 
         <SubmitButton isLoading={isLoading}>Get Started</SubmitButton>
